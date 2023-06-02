@@ -14,6 +14,6 @@ Use at your own risk.
 ## Usage
 1. Install [python](https://www.python.org)
 2. Run `python3 quick-hash.py <path-to-image-folder> <output-file-name>.txt`
-3. If you want to see program usage help, run `python 3 quick-hash.py --help`
+3. If you want to see program usage help, run `python3 quick-hash.py --help`
 
 
